@@ -5,3 +5,7 @@ flask
 jinja2
 pip
 simplejson
+alpha_vantage
+io
+random
+matplotlib
