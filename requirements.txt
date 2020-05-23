@@ -3,8 +3,6 @@ requests==2.20.0
 pip
 simplejson
 alpha_vantage
-io
-random
 matplotlib
 flask
 pandas
